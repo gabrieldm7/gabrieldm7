@@ -1,4 +1,4 @@
-# Olá, eu me chamo Gabriel Domingues, e sou desenvolvedor e designer gráfico!
+## Olá, eu me chamo Gabriel Domingues, sou desenvolvedor e designer gráfico!
 
 <p align="justify">
   Meu nome é **Gabriel Domingues**, e sou um desenvolvedor com experiência em diversas linguagens, APIs e bibliotecas. Atuei como freelancer, entregando soluções personalizadas e eficientes. Além disso, também ofereço serviços de **design gráfico** e **edição de vídeo**.
